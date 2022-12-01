@@ -1,7 +1,9 @@
 # Note-app
 
 User is able to write note and save to local storage
+
 when the user saves data, note data will appear in db.Json
+
 Should open on local port 8000
 
 Preview
